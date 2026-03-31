@@ -1,1 +1,1 @@
-# cyber6
+# automated security report (up-to-date)
